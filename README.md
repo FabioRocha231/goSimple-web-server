@@ -3,10 +3,10 @@ This project is a simple web server create to absorb the content and studies fro
 
 ### API docs
 
-`http://localhost:8080/` is the entry point of this web server.
-`http://localhost:8080/hello` is a simple `hello world` response.
-`http://localhost:8080/form.html` is a simple form to send a name and a address.
-`http://localhost:8080/form` is the form method that receives the form data from `http:localhost:8080/form.html`.
+* `http://localhost:8080/` is the entry point of this web server.
+* `http://localhost:8080/hello` is a simple `hello world` response.
+* `http://localhost:8080/form.html` is a simple form to send a name and a address.
+* `http://localhost:8080/form` is the form method that receives the form data from `http:localhost:8080/form.html`.
 
 ## Getting started
 
